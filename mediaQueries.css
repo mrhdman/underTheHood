@@ -1,0 +1,18 @@
+/* iPhone 5/SE */
+@media only screen and (max-width: 320px) {
+}
+/* iPhone 6/7/8 */
+@media only screen and (max-width: 375px) {
+}
+/* iPhone 6/7/8 Plus */
+@media only screen and (max-width: 414px) {
+}
+/* iPhone X */
+@media only screen and (max-width: 375px) {
+}
+/* iPad */
+@media only screen and (max-width: 768px) {
+}
+/* iPad Pro */
+@media only screen and (max-width: 1024px) {
+}
